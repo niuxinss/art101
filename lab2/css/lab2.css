@@ -1,0 +1,31 @@
+h1{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align:center;
+
+}
+
+p#la{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align:center;
+
+}
+
+#content1 {
+    background-color: black;
+    border:solid 10px; 
+    border-color: black;
+
+}
+
+img {
+    max-width: 30%;
+    display:block;
+    margin: auto;
+    border: 5px dotted gray;
+    border-radius: 70%;
+    rotate: 2deg;
+}
