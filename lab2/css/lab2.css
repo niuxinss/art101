@@ -29,3 +29,8 @@ img {
     border-radius: 70%;
     rotate: 2deg;
 }
+
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
