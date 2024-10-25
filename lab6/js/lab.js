@@ -6,7 +6,7 @@
 
 // define variables
 
-myTransport = ["car", "walking", "bus"]
+myTransport = ["car", "walking", "bus"];
 
 // object for main ride
 myMainRide = {
