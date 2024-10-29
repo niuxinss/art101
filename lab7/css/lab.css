@@ -1,0 +1,20 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+
+  a{
+    color:white;
+  }
+  
+  a:hover{
+    color:rgb(82, 177, 255);
+  }
+  a:visited{
+    color:rgb(163, 204, 238);
+  }
+  
+  a:visited:hover {
+    color: rgb(82, 177, 255);
