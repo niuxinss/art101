@@ -1,3 +1,5 @@
-.minor-section { 
-    color: aliceblue;
+.special { 
+    background-color: gray;
+    font-size: 40px;
+    color: black;
 }

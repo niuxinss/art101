@@ -1,14 +1,14 @@
 /*
    lab.js - add button!
 
-   Requirements: jQuery must be loaded for this script to work.
+   Requirements: need jQuery loaded in html file
 
    Author: Mandy Xie
    Date: November 5th 2024
 */
 
-$("#challenges").append("<button id='button-challenge'>Explode</button>");
+$("#challenges.minor-section").append("<button>button");
 
-$("button-challenge").click(function(){
-    $("#challenges").toggleClass("special");
+$("button").click(function(){
+    $("#challenges.minor-section").toggleClass("special");
 })
