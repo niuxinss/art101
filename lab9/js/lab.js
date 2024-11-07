@@ -7,7 +7,7 @@
    Date: November 5th 2024
 */
 
-$("#challenges.minor-section").append("<button>button");
+$("#challenges.minor-section").append("<button>buttonz");
 
 $("button").click(function(){
     $("#challenges.minor-section").toggleClass("special");
