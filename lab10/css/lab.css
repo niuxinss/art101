@@ -1,0 +1,14 @@
+.minor-section p {
+    margin: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-style: italic bold;
+}
+
+.minor-section p:hover {
+    margin: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: italic bold;
+    color:black;
+}
