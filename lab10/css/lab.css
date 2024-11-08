@@ -6,9 +6,21 @@
 }
 
 .minor-section p:hover {
-    margin: 3px;
-    font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    font-style: italic bold;
     color:black;
+}
+
+.text {
+    max-width: 70%; /* Limit maximum width of text blocks */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.text:nth-child(odd) {
+    color: red;
+    margin-left: auto; /* Shift odd messages to the right */
+}
+
+.text:nth-child(even) {
+    color:white;
 }

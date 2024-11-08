@@ -28,6 +28,8 @@ $("#convo").click(function(){
     
 // append new div to output div
     $("#output").append('<div class="text"><p>'+newText+'</p></div>');
+
+
 });
 
 
