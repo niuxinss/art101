@@ -4,7 +4,7 @@
    Requirements: jQuery must be loaded
 
    Author: Mandy Xie
-   Date: November 11th 2024
+   Date: November 15th 2024
 */
 
 //sort string
