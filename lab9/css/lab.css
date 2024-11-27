@@ -3,3 +3,15 @@
     font-size: 40px;
     color: black;
 }
+
+.special1 { 
+    background-color: red;
+    font-size: 60px;
+    color: white;
+}
+
+.special2 { 
+    background-color: green;
+    font-size: 30px;
+    color: white;
+}
